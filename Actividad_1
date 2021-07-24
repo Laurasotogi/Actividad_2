@@ -3,4 +3,12 @@ Esta es una nueva linea
 Para hacer el doc
 
 Cambios
+Cómo ejecutar un commit
 
+Primero, crear archivos, hacerles cambios
+Luego ir a Source Control, crear repositorio, este se crea automáticamente 
+Luego de esto, al primer, se le da commit, se selecciona un nombre
+Luego se va a terminal, se pega el repositorio de GitHub 
+    Allí hay que crear un repositorio también 
+Luego de eso se da en los tres puntos y se le da a push 
+    Y ya por fin funciona!
